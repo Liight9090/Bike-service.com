@@ -56,7 +56,7 @@ html {
 }
 
 body{
-    background-image: url(../img/image-lion-background.png);
+    background-image: url(./img/image-lion-background.png);
     background-repeat: no-repeat;
     background-position: top center;
     /* background-attachment: fixed;  */
@@ -98,19 +98,19 @@ header{
 }
 
 .card1{
-    background-image: url(../img/image-background-card1.jpg);
+    background-image: url(./img/image-background-card1.jpg);
     width: 30%;
     min-height: 300px;
 }
 
 .card2{
-    background-image: url(../img/image-background-card2.jpg);
+    background-image: url(./img/image-background-card2.jpg);
     width: 30%;
     min-height: 300px;
 }
 
 .card3{
-    background-image: url(../img/image-background-card3.jpg);
+    background-image: url(./img/image-background-card3.jpg);
     width: 30%;
     min-height: 300px;
 }
